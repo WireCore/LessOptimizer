@@ -1,9 +1,9 @@
 {
-	"name": "diagnostic-related-information-sample",
-	"displayName": "Diagnostic Related Information Sample",
-	"description": "Diagnostic Related Information Sample",
-	"version": "0.0.1",
-	"publisher": "vscode-samples",
+	"name": "lessoptimizer",
+	"displayName": "LessOptimizer",
+	"description": "This is a Optimizer for Less Files",
+	"version": "0.1.0",
+	"publisher": "Wirecore",
 	"engines": {
 		"vscode": "^1.32.0"
 	},
